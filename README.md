@@ -1,5 +1,5 @@
 # Project_3
-This repository contains my internship Task 2 project.This repository contains solutions to four distinct problem statements, showcasing the application of various statistical techniques in hypothesis testing using Python.
+This repository contains my internship Task 3 project.This repository contains solutions to four distinct problem statements, showcasing the application of various statistical techniques in hypothesis testing using Python.
 # Hypothesis Testing: Problem Statements and Solutions
 
 📂 Repository Structure
