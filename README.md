@@ -7,7 +7,7 @@ The repository is organized as follows:
 
 Copy code
 
-├── Datasets.zip
+├── Datasets
 
 ├── Problem1.ipynb
 
